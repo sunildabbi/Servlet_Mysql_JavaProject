@@ -18,3 +18,25 @@ A simple Java-based application for registering employee details using a graphic
 
 ## 📂 Project Structure
 
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- JDK 8 or later
+- Any Java IDE (Eclipse, IntelliJ IDEA, NetBeans) or command line
+
+### Running the Application
+
+#### Using Command Line
+
+```bash
+javac EmployeeForm.java
+java EmployeeForm
+
+
+
+Want help improving the form or adding database support? Just let me know!
+
+📧 Contact
+📩 sunildabbi03@gmail.com
